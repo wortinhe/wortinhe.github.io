@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://wortinhe.github.io/sitemap.html.gz
+Sitemap: https://wortinhe.github.io/app/sitemap.html.gz
+Sitemap: https://wortinhe.github.io/assets/sitemap.html.gz
+Sitemap: https://wortinhe.github.io/css/sitemap.html.gz
+Sitemap: https://wortinhe.github.io/includes/sitemap.html.gz
+Sitemap: https://wortinhe.github.io/item/sitemap.html.gz
+Sitemap: https://wortinhe.github.io/src/sitemap.html.gz
